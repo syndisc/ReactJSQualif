@@ -1,0 +1,9 @@
+.dark-card{
+    background-color: turquoise;
+    color: white;
+}
+
+.light-card{
+    background-color: pink;
+    color: black;
+}

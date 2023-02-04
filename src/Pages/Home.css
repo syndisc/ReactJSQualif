@@ -1,0 +1,38 @@
+.container{
+    display: grid;
+    grid-template-columns: repeat(3, 0.7fr);
+    align-items: center;
+    justify-items: center;
+}
+
+.data{
+    border: 0.3vw;
+    border-style: solid;
+    border-color: saddlebrown;
+    width: 10vw;
+    padding: 5%;
+    margin: 1%;
+}
+
+.flex{
+    display: flex;
+}
+
+.space-between{
+    justify-content: space-between;
+}
+
+.container button{
+    width: 2vw;
+    height: 2vw;
+    padding: 0.3%;
+    background-color: transparent;
+}
+
+.text{
+    font-size: 1vw;
+}
+
+.text button{
+    font-size: 1vw;
+}
